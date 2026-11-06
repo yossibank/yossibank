@@ -1,6 +1,6 @@
 # yossibank
 
-iOS と Android のアプリを、企画から公開まで 1 人で作っている。
+個人開発のアプリとテンプレートの一覧。
 
 <img src="assets/banner.svg" width="100%" alt="yossibank。iOS と Android のアプリを 1 人で作る">
 
@@ -49,9 +49,9 @@ App Store で公開しているアプリと、作っているアプリ。
     <td><img src="https://raw.githubusercontent.com/yossibank/android-app-template/main/docs/images/list-light.png" width="220" alt="Android の商品の一覧"></td>
     <td valign="top">
 
-- [🧩 kmp-app-template](https://github.com/yossibank/kmp-app-template)：ログインと一覧の取得を受け持つ共通コア
-- [🍎 ios-app-template](https://github.com/yossibank/ios-app-template)：SwiftUI のアプリ
-- [🤖 android-app-template](https://github.com/yossibank/android-app-template)：Jetpack Compose のアプリ
+- [🧩 kmp-app-template](https://github.com/yossibank/kmp-app-template)：共通コア
+- [🍎 ios-app-template](https://github.com/yossibank/ios-app-template)：iOS アプリ
+- [🤖 android-app-template](https://github.com/yossibank/android-app-template)：Android アプリ
 
 </td>
   </tr>
