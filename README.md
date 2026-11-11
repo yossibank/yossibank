@@ -4,7 +4,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="yossibank。iOS と Android のアプリを 1 人で作る">
 
-<img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,gradle,sqlite,aws,githubactions&perline=8" alt="Swift、Kotlin、Apple、Android Studio、Gradle、SQLite、AWS、GitHub Actions">
+<img src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio,gradle,sqlite&perline=6" alt="Swift、Kotlin、Apple、Android Studio、Gradle、SQLite">
 
 ## 📱 アプリ
 
