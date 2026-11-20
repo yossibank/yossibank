@@ -10,9 +10,9 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
-[<img src="https://yossibank.github.io/kakeibot-support/icon.png" width="72" alt="かけいぼっとのアイコン">](https://apps.apple.com/jp/app/id6829072935)
+[<img src="assets/kakeibot.svg" width="72" alt="かけいぼっとのアイコン">](https://apps.apple.com/jp/app/id6829072935)
 
 ### かけいぼっと
 
@@ -23,7 +23,7 @@
 [<img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ja-jp" height="40" alt="App Store からダウンロード">](https://apps.apple.com/jp/app/id6829072935)
 
 </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 <img src="assets/shiftokei.svg" width="72" alt="しふとけいのアイコン">
 
@@ -31,6 +31,17 @@
 
 - シフトを入れるだけで、給料の見込みと年収の壁までの残りが分かる
 - 🚧 作っている
+- 🍎 iOS
+
+</td>
+    <td width="33%" valign="top">
+
+<img src="assets/unscroll.svg" width="72" alt="おるすマホのアイコン">
+
+### おるすマホ
+
+- 集中した分だけ相棒が日本を旅する、広告なしの SNS 断ち
+- 🚧 公開の準備中
 - 🍎 iOS
 
 </td>
