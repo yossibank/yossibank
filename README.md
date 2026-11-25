@@ -36,13 +36,15 @@
 </td>
     <td width="33%" valign="top">
 
-<img src="assets/unscroll.svg" width="72" alt="おるすマホのアイコン">
+[<img src="assets/unscroll.svg" width="72" alt="おるすマホのアイコン">](https://apps.apple.com/jp/app/id6837062708)
 
 ### おるすマホ
 
 - 集中した分だけ相棒が日本を旅する、広告なしの SNS 断ち
-- 🚧 公開の準備中
+- ✅ 公開中
 - 🍎 iOS
+
+[<img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/ja-jp" height="40" alt="App Store からダウンロード">](https://apps.apple.com/jp/app/id6837062708)
 
 </td>
   </tr>
